@@ -1,0 +1,9 @@
+mx\com\bmt\bpms\service\impl\PaisServiceImpl.class
+mx\com\bmt\bpms\entity\Pais.class
+mx\com\bmt\bpms\controller\AbstractCatalog.class
+mx\com\bmt\bpms\dao\impl\AbstractDaoImpl.class
+mx\com\bmt\bpms\controller\PruebaController.class
+mx\com\bmt\bpms\dao\impl\PaisDaoImpl.class
+mx\com\bmt\bpms\dao\PaisDao.class
+mx\com\bmt\bpms\service\PaisService.class
+mx\com\bmt\bpms\controller\Prueba.class
